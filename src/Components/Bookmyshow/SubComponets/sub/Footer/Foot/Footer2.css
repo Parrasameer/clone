@@ -1,0 +1,21 @@
+.footer2 {
+    background-color: rgb(86, 76, 76);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+.footer2 .col-3 {
+    display: inline-grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer2 .col-3 div {
+    margin-bottom: 10px;
+}
+
+.footer2 svg {
+    height: 70px;
+}

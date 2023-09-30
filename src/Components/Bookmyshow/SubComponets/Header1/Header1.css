@@ -1,0 +1,44 @@
+.header1 .nav-link {
+    color: white !important
+}
+
+.header1 .navbar-brand {
+    color: white !important;
+}
+
+.header1 .headerBtn {
+    display: flex;
+    align-items: center;
+
+}
+
+.header1 .me-2 {
+    width: 40rem !important;
+}
+
+
+
+.firstNavbar img {
+    height: fit-content;
+    width: 140px;
+    border-radius: 20px;
+}
+
+.mainNavbar {
+    background-color: rgb(98, 96, 96);
+
+}
+
+.row {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+}
+
+.navbar {
+    padding: 0 !important;
+}
+
+.btn-danger {
+    height: min-content;
+    border-radius: 15px !important;
+}

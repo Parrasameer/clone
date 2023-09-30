@@ -1,0 +1,17 @@
+.footer1 {
+    background-color: rgb(48, 44, 44);
+    margin-top: 50px !important;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.footer1 img {
+    vertical-align: 0 !important;
+}
+
+.imageDiv {
+    display: inline-flex;
+    justify-content: end;
+}

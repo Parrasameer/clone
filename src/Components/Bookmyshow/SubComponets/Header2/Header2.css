@@ -1,0 +1,12 @@
+.header2 {
+    background-color: black !important;
+}
+
+.header2 sup {
+    color: red;
+}
+
+.header2 .row {
+    margin-right: 0 !important;
+    color: white;
+}

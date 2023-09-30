@@ -1,0 +1,29 @@
+.footer3 {
+    background-color: rgb(46, 39, 39);
+    color: gray;
+    padding: 20px;
+}
+
+.footer3 hr {
+    color: antiquewhite;
+
+}
+
+.footer3 .col-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.footer3 .svg {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer3 .text3 {
+    margin-top: 16px;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+}

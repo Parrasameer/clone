@@ -1,0 +1,383 @@
+.width90 {
+    width: 90%;
+}
+
+.width80 {
+    width: 80%;
+}
+
+.width10 {
+    width: 10%;
+}
+
+.width20 {
+    width: 20%;
+}
+
+.twitters .row {
+    background-color: black;
+    height: 200%;
+}
+
+.twitters .center {
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+    background-color: black;
+
+}
+
+.twitter {
+    color: white;
+    width: 30px;
+    height: 30px;
+
+}
+
+.twitters .left_container {
+
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    margin-top: 50px;
+
+
+
+}
+
+.twitters .explore {
+    color: white;
+    margin-top: 30px;
+    font-size: medium;
+}
+
+.twitters .settings {
+    color: white;
+    margin-top: 30px;
+    font-size: medium;
+}
+
+.twitters .center_top2 {
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: rgb(45, 45, 45);
+    border: none;
+    display: flex;
+    border: 1px solid rgb(45, 45, 45);
+    width: 70%;
+    height: fit-content;
+    margin-left: 20px;
+
+}
+
+
+.twitters .search_box {
+    color: white;
+    background-color: inherit;
+    width: 100%;
+    height: 42px;
+    border: 1px solid rgb(45, 45, 45);
+    padding-left: 10px;
+    border-radius: inherit;
+    outline: none;
+
+}
+
+
+
+.twitters .back_img {
+    margin-top: 14px;
+    margin-left: 14px;
+
+}
+
+.twitters .search_setting {
+
+    margin-top: 27px;
+    margin-left: 100px;
+}
+
+.twitters .center_top {
+    display: flex;
+
+
+}
+
+.twitters .center_navbar {
+    margin: 6px 0px;
+
+}
+
+.twitters .center_navbar2 {
+    margin-left: 10px;
+
+}
+
+.twitters .nav-pills .nav-link.active,
+.twitters .nav-pills .show>.nav-link {
+    background-color: inherit;
+    color: grey;
+}
+
+.twitters .nav-link {
+    color: grey;
+}
+
+.twitters .back_img {
+    background-size: cover;
+    height: 150px;
+    background: url(https://cnr.ncsu.edu/fer/wp-content/uploads/sites/19/2022/04/01242021-tiger-data-unsplash-featured.jpeg);
+    background-size: 40px 40px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+
+
+}
+
+.twitters .sameer {
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(155, 150, 150);
+}
+
+.twitters .lion {
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: white;
+}
+
+.twitters .top_news {
+
+    margin-top: 26px;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+
+.twitters .top_news p:nth-child(1) {
+    color: grey;
+    font-size: small;
+}
+
+.twitters .top_news p:nth-child(2) {
+    color: white;
+    font-size: large;
+}
+
+.twitters .top_news p:nth-child(3) {
+    color: grey;
+    font-size: small;
+}
+
+.twitters .top_news p span {
+    color: blue;
+}
+
+.twitters .top_news2 {
+
+    margin-top: 26px;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+
+
+
+}
+
+.twitters .top_news2 img {
+    width: 90px;
+    height: 80px;
+    border-radius: 15px;
+}
+
+.top_news2 p:nth-child(1) {
+    color: grey;
+    font-size: small;
+}
+
+.top_news2 p:nth-child(2) {
+    color: white;
+    font-size: large;
+
+}
+
+.twitters .back_img h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: grey
+}
+
+.back_img h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: white;
+
+}
+
+.back_img p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: gray;
+
+}
+
+.back_img p span {
+    color: rgb(7, 7, 249);
+}
+
+.top_news img {
+    border-radius: 15px;
+}
+
+
+
+
+.center_tweets .malik img {
+    height: 70px;
+    width: 70px;
+    border-radius: 18px;
+}
+
+.center .malik .flag {
+    height: 15px;
+    width: 15px;
+}
+
+.center_tweets .malik svg {
+    color: blue;
+
+
+}
+
+.center_tweets .malik {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.center_tweets .malik .div {
+    margin-left: 15px;
+}
+
+.center_tweets .malik .sania {
+    color: blue;
+}
+
+.center_tweets {
+    margin-top: 14px;
+}
+
+.center_tweets_nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center_tweets .center_tweets_nav {
+    margin-bottom: 22px;
+    margin-top: -12px;
+}
+
+.twitters .footer {
+    background-color: rgb(103, 103, 244);
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+
+
+}
+
+.twitters .footer-row {
+    display: flex;
+}
+
+.twitters .footer-row p:nth-child(1) {
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.twitters .footer-row p:nth-child(2) {
+
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.twitters .btn {
+    border-radius: 18px;
+}
+
+.twitters .footer-row div:nth-child(3) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.twitters .footer-row div .btn:nth-child(2) {
+    color: black;
+    background-color: white;
+    padding: 5px;
+}
+
+.twitters .footer-row div .btn:nth-child(1) {
+    margin: 0 14px;
+    background-color: rgb(81, 81, 219);
+}
+
+.twitters .card {
+    margin-top: 15px;
+    color: white;
+    background-color: inherit;
+    border-radius: 20px;
+    border: 1px solid gray;
+}
+
+.twitters .card .card-text {
+    font-size: x-small;
+}
+
+.twitters .card .btn {
+    margin-bottom: 10px;
+    background-color: white;
+    color: black;
+    border: 1px solid whitesmoke;
+    width: 90%;
+}
+
+.twitters .card .terms {
+    margin-top: 10px;
+    font-size: small;
+}
+
+.twitters .card .terms span {
+    color: blue;
+}
+
+.twitters .card svg {
+    margin-right: 10px;
+}
+
+.malik img {
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.malik {
+    display: flex;
+    margin-top: 30px;
+}
